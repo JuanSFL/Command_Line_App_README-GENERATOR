@@ -3,7 +3,7 @@ const fs = require('fs');
 // inquirer v8.2.4
 const inquirer = require('inquirer');
 // generateMarkdown.js file
-const generateMarkdown = require('./utils/generateMarkdown.js');
+const generateMarkdown = require('./generateMarkdown.js');
 
 // questions array
 const questions = [
